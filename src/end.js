@@ -16,7 +16,7 @@ var endState = {
     create: function () {
         "use strict";
         var bar = game.add.graphics();
-        bar.beginFill(0xf1800e, 1);
+        bar.beginFill(0x1E8F39, 1);
         bar.drawRect(0, 0, window.innerWidth, 50);
         
         var resultStyle = {font: "bold 30px Arial", fill: "#000"}, headingStyle = {font: " 24px Arial", fill: "#000"};
